@@ -44,9 +44,9 @@ An AI-powered web application that generates multiple-choice questions (MCQs) fr
 
    ```bash
    git clone https://github.com/abdulwaheedal/MCQ-Generator-free.git
-   cd ai-mcq-generator
+   cd MCQ-Generator-free
+  
    
-
 2. **Install Dependencies:**
 
    ```bash
