@@ -1,4 +1,4 @@
-```md
+
 # AI MCQ Generator
 
 An AI-powered web application that generates multiple-choice questions (MCQs) from any given text, file, or URL. This tool is designed to help teachers, students, and content creators quickly generate quizzes and exam questions with customizable settings.
@@ -36,6 +36,8 @@ An AI-powered web application that generates multiple-choice questions (MCQs) fr
 - **OpenRouter API** (using the free DeepSeek model)
 - **Lucide React** (icons)
 
+
+
 ## Installation
 
 1. **Clone the Repository:**
@@ -43,7 +45,7 @@ An AI-powered web application that generates multiple-choice questions (MCQs) fr
    ```bash
    git clone https://github.com/abdulwaheedal/MCQ-Generator-free.git
    cd ai-mcq-generator
-   ```
+   
 
 2. **Install Dependencies:**
 
