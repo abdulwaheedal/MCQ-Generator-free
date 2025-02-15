@@ -93,7 +93,7 @@ An AI-powered web application that generates multiple-choice questions (MCQs) fr
 6. **Export or Copy:**  
    Use the provided buttons to export the quiz to a text file or copy it to your clipboard.
 
-##Deployed Application
+## Deployed Application
 
 The application is deployed and available at:
 https://sprightly-semolina-fb4b83.netlify.app/
