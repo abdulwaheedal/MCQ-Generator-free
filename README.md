@@ -67,7 +67,7 @@ An AI-powered web application that generates multiple-choice questions (MCQs) fr
 
 5. **Open in Browser:**
 
-   Navigate to `http://localhost:3000` (or the port specified by Vite).
+   Navigate to `http://localhost:5173` (or the port specified by Vite).
 
 ## Usage
 
@@ -91,17 +91,21 @@ An AI-powered web application that generates multiple-choice questions (MCQs) fr
 6. **Export or Copy:**  
    Use the provided buttons to export the quiz to a text file or copy it to your clipboard.
 
+##Deployed Application
+The application is deployed and available at:
+https://sprightly-semolina-fb4b83.netlify.app/
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and open a pull request. For major changes, consider opening an issue first to discuss your ideas.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is not yet licensed
 
 ## Credits
 
-- Developed by [Your Name].
+- Developed by Faaiz.
 - Icons provided by [Lucide React](https://lucide.dev/).
 - AI question generation powered by the DeepSeek model via OpenRouter API.
 ```
